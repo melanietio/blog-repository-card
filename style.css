@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: hsl(47, 88%, 63%);
+  background-color: hsl(47, 69%, 53%);
   font-family: 'Figtree', sans-serif;
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 }
 
 .category {
-  background-color: hsl(47, 88%, 63%);
+  background-color: hsl(47, 74%, 48%);
   padding: 4px 12px;
   border-radius: 5px;
   font-weight: 800;
@@ -55,7 +55,7 @@ body {
 }
 
 .title:hover {
-  color: hsl(47, 88%, 63%);
+  color: hsl(47, 82%, 46%);
 }
 
 .description {
