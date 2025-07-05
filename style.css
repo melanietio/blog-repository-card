@@ -14,10 +14,10 @@ body {
 }
 
 .card {
-  background-color: white;
-  border: 1px solid black;
-  border-radius: 20px;
-  padding: 1.5rem;
+  background-color: rgb(245, 57, 57);
+  border: 1px solid rgb(20, 14, 108);
+  border-radius: 10px;
+  padding: 1rem;
   max-width: 350px;
   box-shadow: 8px 8px 0px black;
   transition: transform 0.2s ease;
