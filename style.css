@@ -7,6 +7,7 @@
 body {
   background-color: hsl(47, 81%, 46%);
   font-family: 'Figtree', sans-serif;
+  display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
@@ -15,8 +16,8 @@ body {
 .card {
   background-color: white;
   border: 1px solid black;
-  border-radius: 20px;
-  padding: 1.5rem;
+  border-radius: 40px;
+  padding: 3.5rem;
   max-width: 350px;
   box-shadow: 8px 8px 0px black;
   transition: transform 0.2s ease;
