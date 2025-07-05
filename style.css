@@ -8,7 +8,7 @@ body {
   background-color: hsl(47, 81%, 46%);
   font-family: 'Figtree', sans-serif;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
   min-height: 100vh;
 }
